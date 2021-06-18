@@ -1,0 +1,14 @@
+h2 {
+    color: indigo;
+    background-color: rgb(7,125,6);
+}
+
+p{
+    color:rgb(7,125,6);
+    background-color: salmon;
+}
+
+button{
+    color:magenta;
+    background-color: indigo;
+}

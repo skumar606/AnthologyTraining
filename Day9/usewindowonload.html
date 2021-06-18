@@ -1,0 +1,28 @@
+<html>
+
+<head>
+    <title></title>
+    <script src="lib/jquery-3.6.0.js"></script>
+    <script type="text/javascript">
+        $(window).on('load', function () {
+            $('#div1').html("Height = " + $('#Image1').height()
+                + "<br/>" + "Width = " + $('#Image1').width())
+        });
+
+        /*  $(document).ready(
+              function () {
+  
+                  $('#div1').html("Height = " + $('#Image1').height()
+                      + "<br/>" + "Width = " + $('#Image1').width())
+  
+              }
+          );*/
+    </script>
+</head>
+
+<body>
+    <div id="div1"></div>
+    <img src="dog.jpg" id="Image1" />
+</body>
+
+</html>

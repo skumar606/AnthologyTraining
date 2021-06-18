@@ -1,0 +1,2 @@
+Select all the variables that have a class of "done" and save them in a variable called "doneToDos"
+Select the one checkbox and save it in a variable checked

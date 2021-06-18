@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="/chemistry">
+        <label for="agree">I agree to everything</label>
+        <input type="checkbox" name="agree_tos" id="agree" checked>
+        <button>Submit</button>
+    </form>
+    <h1>Radio Buttons</h1>
+    <form action="/size">
+        <label for="xs">XS</label>
+        <input type="radio" id="xs" name="size" value="xs">
+        <label for="s">S</label>
+        <input type="radio" id="s" name="size" value="s">
+        <label for="m">M</label>
+        <input type="radio" id="m" name="size" value="m">
+        <button>Submit</button>
+    </form>
+    <h1>Select List</h1>
+    <form action="/pets">
+        <label for="pet-select">Choose a pet:</label>
+
+        <select name="pets" id="pet-select">
+            <option value="">--Please choose an option--</option>
+            <option value="dog">Dog</option>
+            <option value="cat">Cat</option>
+            <option value="hamster">Hamster</option>
+            <option value="parrot">Parrot</option>
+            <option value="spider">Spider</option>
+            <option value="goldfish">Goldfish</option>
+        </select>
+        <button>Submit</button>
+    </form>
+    <h1> Range and Text Area</h1>
+    <form action="/cheese">
+        <input type="range" id="cheese" name="cheese_level" min="1" max="100" step="7">
+        <label for="story">Tell us your story:</label>
+        <br>
+        <textarea id="story" name="story" rows="5" cols="33">
+            It was a dark and stormy night...
+        </textarea>
+        <button>Submit</button>
+    </form>
+</body>
+
+</html>

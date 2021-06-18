@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms Demo</title>
+</head>
+
+<body>
+    <button>Outside the Form</button>
+    <form action="/std">
+        <button type="button">Top of the Form</button>
+        <p>
+            <label for="username">User Name</label>
+            <input type="text" id="username" name="username" placeholder="Enter a Name" required>
+        </p>
+        <p>
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" placeholder="Enter the password" minlength="3"
+                maxlength="8">
+        </p>
+        <p>
+            <label for="myemail">Email</label>
+            <input type="email" id="myemail" placeholder="Enter your email">
+        </p>
+        <p>
+            <label for="mycolor">Enter a Color</label>
+            <input type="color" id="mycolor" name="mycolor">
+        </p>
+        <p>
+            <label for="mynumber">Enter a Number</label>
+            <input type="number" id="mynumber" name="mynumber" placeholder="Enter a number" min="1" max="100">
+        </p>
+        <button>Submit</button>
+
+    </form>
+</body>
+
+</html>

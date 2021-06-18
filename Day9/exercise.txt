@@ -1,0 +1,7 @@
+1) Change the font of h1
+2) Change the color of p with id intro
+3) Select ul inside div and change the color
+4) Get the html of span within h2
+5) Get the html of each li within ul 
+
+USe the code from Day 7

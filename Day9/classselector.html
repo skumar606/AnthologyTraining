@@ -1,0 +1,32 @@
+<html>
+
+<head>
+    <title></title>
+    <script src="lib/jquery-3.6.0.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.small').css('border', '5px solid red');
+            //$('.small, .big').css('border', '5px solid red');
+            //What does the below line do?
+            //$('.small .big').css('border', '5px solid red');
+        });
+    </script>
+</head>
+
+<body>
+    <span class="small">
+        Span 1
+    </span>
+    <br /><br />
+    <div class="small">
+        Div 1
+        <p class="big">This is a descendant paragraph</p>
+    </div>
+    <br />
+    <span class="big">
+        Span 2
+    </span>
+    <p class="big">This is a paragraph</p>
+</body>
+
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scope</title>
+</head>
+
+<body>
+    <script>
+        //Function Scope
+        /* let largeAnimal = "Blue Whale";
+  
+          function largeAnimals() {
+              let largeAnimal = "White Whale";
+              console.log(largeAnimal);
+  
+          }
+          console.log("Before calling function " + largeAnimal);
+          largeAnimals();
+          console.log("After calling function" + largeAnimal); */
+
+        //Block Scope
+        /* let radius = 8;
+         if (radius > 0) {
+             const PI = 3.14159;
+             let msg = 'hi';
+         }
+         console.log(radius);
+         console.log(msg);
+         console.log(PI);*/
+
+        //Lexical Scope
+        /* function bankRobbery() {
+             const heroes = ["Superman", "Batwoman", "Spiderman"];
+             function cryForHelp() {
+                 for (let hero of heroes) {
+                     console.log(`Please help us ${hero}`);
+                 }
+             }
+             cryForHelp();
+ 
+         }*/
+
+        //Lexical Scope nested
+        function bankRobbery() {
+            const heroes = ["Superman", "Batwoman", "Spiderman"];
+            function cryForHelp() {
+                function inner() {
+                    for (let hero of heroes) {
+                        console.log(`Please help us ${hero}`);
+                    }
+                }
+                inner();
+            }
+            cryForHelp();
+
+        }
+
+    </script>
+</body>
+
+</html>

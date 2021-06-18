@@ -1,0 +1,67 @@
+<html>
+
+<head>
+    <title></title>
+    <script src="lib/jquery-3.6.0.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('div').each(function () {
+                alert($(this).attr('title'));
+            });
+        });
+        /*$(document).ready(function () {
+            // set the same title attribute value for all the DIV elements
+            $('div').attr('title', 'new div title');
+
+            // Retrieve and alert the title attribute value of all DIV elements
+            $('div').each(function () {
+                alert($(this).attr('title'));
+            });
+        });*/
+
+        /* $(document).ready(function () {
+             // sets a different title attribute value for each DIV element
+             $('div').each(function (i) {
+                 $(this).attr('title', 'div ' + (i + 1) + ' title');
+             });
+
+             // Retrieve and alert the title attribute value of all DIV elements
+             $('div').each(function () {
+                 alert($(this).attr('title'));
+             });
+         });*/
+
+        /* $(document).ready(function () {
+             var config = {
+                 'title': 'New Div Title',
+                 'style': 'border:3px solid red;',
+                 'name': 'My Div'
+             };
+
+             $('div').attr(config);
+
+             var result = '';
+             $('div').each(function () {
+                 result += 'title = ' + $(this).attr('title') + '<br/>';
+                 result += 'style = ' + $(this).attr('style') + '<br/>';
+
+
+                 result += 'name = ' + $(this).attr('name') + '<br/><br/>';
+             });
+
+             $('#resultSpan').html(result);
+         });*/
+
+    </script>
+</head>
+
+<body style="font-family:Arial">
+    <div id="div1" title="My DIV1">
+        DIV 1
+    </div>
+    <div id="div2" title="My DIV2">
+        DIV 2
+    </div>
+</body>
+
+</html>

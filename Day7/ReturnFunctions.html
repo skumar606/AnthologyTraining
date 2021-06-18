@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Return functions</title>
+</head>
+
+<body>
+    <script>
+        function makeMysteryFunction() {
+            const rand = Math.random();
+
+            if (rand > 0.5) {
+                return function () {
+                    console.log("You hit the goal");
+                }
+            }
+            else {
+                return function () {
+                    alert("You missed it. Better luck next time");
+                    alert("You missed it. Better luck next time");
+                    alert("You missed it. Better luck next time");
+                }
+
+            }
+
+        }
+
+        var mysteryResult = makeMysteryFunction();
+    </script>
+
+</body>
+
+</html>

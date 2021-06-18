@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Array Methods</title>
+</head>
+
+<body>
+    <h1>Array Methods</h1>
+
+
+    <script>
+        var fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+        //Converting array to strings
+        alert("Array converted to string " + fruits.toString());
+
+        //join Method
+        alert("Array join method " + fruits.join(" * "));
+
+        //The pop() method removes the last element from an array
+        alert("Pop method " + fruits.pop());
+
+        //Push adds a new element at the end
+        // It returns the array length 
+        alert("Push method " + fruits.push("Kiwi"));
+
+        //The shift() method removes the first array element and "shifts"
+        // all other elements to a lower index.
+        alert("Shift method " + fruits.shift());
+        alert("Array length after the shift method " + fruits.length);
+
+        //The unshift() method adds a new element to an array (at the beginning), 
+        //and "unshifts" older elements
+        alert("Unshift method " + fruits.unshift("Lemon"));
+        alert("After UnShift method " + fruits);
+
+        //Changing elements of array
+        fruits[0] = "Pineapple;"
+        alert("Change the first element " + fruits[0]);
+
+        //Deleting Elements
+        delete fruits[0];
+        alert("Arrar after deleting the first element " + fruits);
+
+        //The splice() method can be used to add new items to an array
+        var fruits = ["Banana", "Orange", "Apple", "Mango"];
+        //The first parameter (2) defines the position where new elements should be added (spliced in).
+        //The second parameter (0) defines how many elements should be removed.
+        //The rest of the parameters ("Lemon" , "Kiwi") define the new elements to be added.
+        alert("Array before splice " + fruits);
+        fruits.splice(2, 0, "Lemon", "Kiwi");
+        alert("Array after splice " + fruits);
+
+        //Merging array
+        var flowers = ["Rose", "Jasmine", "Lotus"];
+        var fruitsnFlowers = fruits.concat(flowers);
+        alert("Fruits and flowers after concat " + fruitsnFlowers);
+
+
+    </script>
+
+
+</body>
+
+</html>

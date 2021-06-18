@@ -1,0 +1,23 @@
+A massive open online course (MOOC /muːk/) is an online course aimed at unlimited participation and open access via the Web.[1] In addition to traditional course materials, such as filmed lectures, readings, and problem sets, many MOOCs provide interactive courses with user forums or social media discussions to support community interactions among students, professors, and teaching assistants (TAs), as well as immediate feedback to quick quizzes and assignments. MOOCs are a widely researched development in distance education,[2] first introduced in 2008,[3] that emerged as a popular mode of learning in 2012.[4][5][6]
+
+Early MOOCs (cMOOCs: Connectivist MOOCs) often emphasized open-access features, such as open licensing of content, structure and learning goals, to promote the reuse and remixing of resources. Some later MOOCs (xMOOCs: extended MOOCs) use closed licenses for their course materials while maintaining free access for students.
+
+History
+File:What is a MOOC.ogv
+What is a MOOC?, December 2010
+Precursors
+Main article: Distance learning
+Before the Digital Age, distance learning appeared in the form of correspondence courses in the 1890s–1920s and later radio and television broadcast of courses and early forms of e-learning. Typically fewer than five percent of the students would complete a course.[11] For example the Stanford Honors Cooperative Program, established in 1954, eventually offered video classes on-site at companies, at night, leading to a fully accredited Master's degree. This program was controversial because the companies paid double the normal tuition paid by full-time students.[12] The 2000s saw changes in online, or e-learning and distance education, with increasing online presence, open learning opportunities, and the development of MOOCs.[13] By 2010 audiences for the most popular college courses such as "Justice" with Michael J. Sandel and "Human Anatomy" with Marian Diamond were reaching millions.[14]
+
+Early approaches
+File:George Siemens interview on MOOCs and Open Education.webm
+George Siemens interview
+
+Tabulation of the significant differences between xMOOC and cMOOC.[15]
+The first MOOCs emerged from the open educational resources (OER) movement, which was sparked by MIT OpenCourseWare project.[16] The OER movement was motivated from work by researchers who pointed out that class size and learning outcomes had no established connection, with Daniel Barwick's work being the most often-cited example.[17][18]
+
+Within the OER movement, the Wikiversity was founded in 2006 and the first open course on the platform was organised in 2007. Ten-week course with more than 70 students was used to test the idea of making Wikiversity an open and free platform for education in the tradition of Scandinavian free adult education, Folk High School and the free school movement.[19] The term MOOC was coined in 2008 by Dave Cormier of the University of Prince Edward Island in response to a course called Connectivism and Connective Knowledge (also known as CCK08). CCK08, which was led by George Siemens of Athabasca University and Stephen Downes of the National Research Council, consisted of 25 tuition-paying students in Extended Education at the University of Manitoba, as well as over 2200 online students from the general public who paid nothing.[20] All course content was available through RSS feeds, and online students could participate through collaborative tools, including blog posts, threaded discussions in Moodle, and Second Life meetings.[21][22][23] Stephen Downes considers these so-called cMOOCs to be more "creative and dynamic" than the current xMOOCs, which he believes "resemble television shows or digital textbooks."[20]
+
+Other cMOOCs were then developed; for example, Jim Groom from The University of Mary Washington and Michael Branson Smith of York College, City University of New York hosted MOOCs through several universities starting with 2011's 'Digital Storytelling' (ds106) MOOC.[24] MOOCs from private, non-profit institutions emphasized prominent faculty members and expanded existing distance learning offerings (e.g., podcasts) into free and open online courses.[25]
+
+Alongside the development of these open courses, other E-learning platforms emerged – such as Khan Academy, Peer-to-Peer University (P2PU), Udemy, and Alison – which are viewed as similar to MOOCs and work outside the university system or emphasize individual self-paced lessons.

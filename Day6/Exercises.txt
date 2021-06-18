@@ -1,0 +1,5 @@
+1.const mystery = 'Pearlle7'
+
+a) Use string functions and Logical AND and print true
+b) Use string functions and Logical OR and print true
+c) Use string functions and Logical NOT and print true

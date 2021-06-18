@@ -1,0 +1,56 @@
+<html>
+
+<head>
+    <title></title>
+    <script src="lib/jquery-3.6.0.js"></script>
+    <script type="text/javascript">
+        /** $(document).ready(function () {
+             $(':disabled').css('border', '3px solid red');
+         });**/
+
+        $(document).ready(function () {
+            $("input[type ='text']:disabled").css('border', '3px solid red');
+        });
+
+    </script>
+</head>
+
+<body style="font-family:Arial">
+    <table>
+        <tr>
+            <td>First Name </td>
+            <td><input type="text" disabled="disabled" /></td>
+        </tr>
+        <tr>
+            <td>Last Name </td>
+            <td><input type="text" disabled="disabled" /></td>
+        </tr>
+        <tr>
+            <td>Email </td>
+            <td><input type="text" /></td>
+        </tr>
+        <tr>
+            <td>Gender </td>
+            <td>
+                <select id="selectGender" disabled="disabled">
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Comments</td>
+            <td><textarea></textarea></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Submit" disabled="disabled" />
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
+
+<!-- Select all input elements that are disabled
+Select all input elements with  type=text that are diasabled -->

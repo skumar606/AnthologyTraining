@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arrays</title>
+</head>
+
+<body>
+    <h1>Arrays Example</h1>
+    <script>
+        var cars = ["Saab", "Volvo", "BMW"];
+        alert("Element in the first position of the array " + cars[0]);
+
+        // Changing the array Element 
+        cars[0] = "Opel";
+        alert("Element in the first position of the array after changing the element " + cars[0]);
+
+        //Accessing the full array 
+        alert("Displaying the full array " + cars);
+
+        //Length of the Array
+        alert("Array Length " + cars.length);
+
+        //Sort the array
+        cars.sort();
+        alert("Sort the array " + cars);
+
+        //Accessing the first and last element
+        alert("First element in the array " + cars[0]);
+
+        //Adding a new element to the array 
+        cars.push("Toyota");
+
+        alert("Displaying the full array after adding the element " + cars);
+
+    </script>
+</body>
+
+</html>

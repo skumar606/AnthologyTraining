@@ -1,0 +1,30 @@
+/* *{
+    color:salmon;
+    background-color: slateblue;
+} */
+
+section
+{
+    color:blue;
+}
+
+button{
+    color:darkblue;
+    background-color: darkcyan;
+}
+
+#Vote2
+{
+    color: black;
+    background-color: red;
+
+}
+
+span
+{
+    color: #4361ee
+}
+.tag
+{
+    background-color: purple;
+}
