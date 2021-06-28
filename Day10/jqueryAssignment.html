@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script src="lib/jquery-3.6.0.js"></script>
+    <script>
+        $(document).contextmenu(function () {
+            console.log("blocked");
+            return false;
+        })
+
+        $(document).ready(function () {
+            $("form").submit(function (event) {
+                event.preventDefault();
+                let checked = $("input[name='color']:checked");
+                let result = "";
+                checked.each(function () {
+                    result += $(this).val();
+                    result += ", ";
+                })
+                $("#result").html(result);
+            })
+
+            $("div h1").css("background-color", "yellow");
+
+            $("#field1").blur(function(){
+                console.log("field1 loses focus.")
+            })
+        })
+
+    </script>
+</head>
+
+<body>
+    <form action="">
+        <input type="checkbox" id="red" name="color" value="red">
+        <label for="red">Red</label>
+        <input type="checkbox" id="green" name="color" value="green">
+        <label for="green">Green</label>
+        <input type="checkbox" id="blue" name="color" value="blue">
+        <label for="blue">Blue</label>
+        <input type="checkbox" id="black" name="color" value="black">
+        <label for="black">Black</label>
+
+        <br>
+        <input type="submit" value="Submit">
+        <div id="result"></div>
+    </form>
+
+    <h1>abc</h1>
+    <div>
+        <h1>div-1</h1>
+        <h1>div-2</h1>
+    </div>
+    <h1>xyz</h1>
+
+
+    <div>
+        <input id="field1" type="text" value="Field 1">
+        <input id="field2" type="text" value="Field 2">
+    </div>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p class="paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas voluptatem ullam, dicta esse
+        temporibus enim sed maxime adipisci molestiae eius accusantium, aut quaerat magni aliquam eveniet ea, impedit at
+        commodi!</p>
+    <form action="">
+        <div>
+            <label for="radius">Radius: </label>
+            <input type="text" name="radius" id="radius">
+        </div>
+        <div>
+            Volume: <span class="result"></span>
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+
+    <div class="reading-status">
+
+    </div>
+
+    <script>
+        for (let i = 0; i <= 15; i++) {
+            if (i % 2 == 0) {
+                console.log(i, "is even");
+            } else {
+                console.log(i, "is odd");
+            }
+        }
+
+        document.querySelector(".paragraph").style.backgroundColor = 'yellow';
+
+
+
+        document.querySelector('form').addEventListener('submit', (event) => {
+            event.preventDefault();
+            let radius = document.querySelector("#radius").value;
+            let volume = 4 / 3 * Math.PI * (radius ** 3);
+            document.querySelector(".result").innerHTML = volume;
+        })
+
+
+        function repeat(str, num) {
+            if (!num) return str;
+            let res = "";
+            while (num--) {
+                res += str;
+            }
+            return res;
+        }
+
+        console.log(repeat('Ha!'));
+        console.log(repeat('Ha!', 2));
+        console.log(repeat('Ha!', 3));
+
+        var library = [
+            {
+                author: 'Bill Gates',
+                title: 'The Road Ahead',
+                readingStatus: true
+            },
+            {
+                author: 'Steve Jobs',
+                title: 'Walter Isaacson',
+                readingStatus: true
+            },
+            {
+                author: 'Suzanne Collins',
+                title: 'Mockingjay: The Final Book of The Hunger Games',
+                readingStatus: false
+            }
+        ];
+
+        let content = "";
+        for(const key in library) {
+            let s = `${library[key].author}, ${library[key].title}, ${library[key].readingStatus} <br>`;
+            content += s;
+        }
+        document.querySelector(".reading-status").innerHTML = content;
+
+
+    </script>
+</body>
+
+</html>

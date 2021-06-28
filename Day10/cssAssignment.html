@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1>Travel Reservation Form</h1>
+        <h4>* denotes mandotory</h4>
+
+        <form action="">
+            <div>
+                <label for="name">Full Name*:</label>
+                <br>
+                <input type="text" name="name" id="name" placeholder="FirstName LastName">
+            </div>
+            <div>
+                <label for="email">Email address*:</label>
+                <br>
+                <input type="email" name="email" id="email" placeholder="Email_Address">
+            </div>
+            <div>
+                <label for="">Select Tour Package*:</label>
+                <br>
+                <select name="place" id="place">
+                    <option value="goa">Goa</option>
+                </select>
+            </div>
+            <div>
+                <label for="date">Arrival Date*:</label>
+                <br>
+                <input type="text" name="date" id="date" placeholder="mm/dd/yyyy">
+            </div>
+            <div>
+                <label for="count">Number of Persons*:</label>
+                <br>
+                <input type="number" name="count" id="count" placeholder="Unknown_Type">
+            </div>
+            <div>
+                <label for="">What do you want to avail?*</label>
+                <br>
+                <label for="t1">Boarding</label>
+                <input type="checkbox" name="t" id="t1" value="1">
+                <br>
+                <label for="t2">Fooding</label>
+                <input type="checkbox" name="t" id="t2" value="2">
+                <br>
+                <label for="t3">Sight Seeing</label>
+                <input type="checkbox" name="t" id="t3" value="3">
+            </div>
+            <div>
+                <label for="coupon_code">Discount coupon code:</label>
+                <br>
+                <input type="text" name="coupon_code" id="coupon_code">
+            </div>
+            <div>
+                <label for="">Terms and Conditions*:</label>
+                <input type="radio" name="t&c" value="true">
+                <label for="">I agree</label>
+                <input type="radio" name="t&c" value="false">
+                <label for="">I disagree</label>
+            </div>
+            <button type="submit">Complete Reservation</button>
+        </form>
+    </div>
+</body>
+</html>
