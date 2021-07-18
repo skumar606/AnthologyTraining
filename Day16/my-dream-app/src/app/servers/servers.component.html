@@ -1,0 +1,12 @@
+<!-- <h2>Server with id {{serverID}} is {{getStatus()}}</h2> -->
+
+<div *ngFor="let server of servers">
+    <div>
+        Server ID = {{server.serverId}},
+        <br>
+        Server Name = {{server.serverName}},
+        <br>
+        Server Availability = {{server.serverAvailability}}
+    </div>
+    <hr>
+</div>

@@ -1,0 +1,10 @@
+<div class="card mb-3">
+    <div class="card-body">
+        <h4>{{event.name}}</h4>
+        <div class="mb-3">{{event.location + ", at " + event.time + ", on " + event.date}}</div>
+        <div class="input-group">
+            <input type="date" class="form-control" value="{{event.date}}" #newDate>
+            <button class="btn btn-primary" type="button" (click)="UpdateEvent(event.id, newDate.value)">Update Date</button>
+        </div>
+    </div>
+</div>

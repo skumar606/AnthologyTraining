@@ -1,0 +1,7 @@
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\GuessingNumber\GuessingNumber\bin\Debug\GuessingNumber.exe.config
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\GuessingNumber\GuessingNumber\bin\Debug\GuessingNumber.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\GuessingNumber\GuessingNumber\bin\Debug\GuessingNumber.pdb
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\GuessingNumber\GuessingNumber\obj\Debug\GuessingNumber.csproj.AssemblyReference.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\GuessingNumber\GuessingNumber\obj\Debug\GuessingNumber.csproj.CoreCompileInputs.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\GuessingNumber\GuessingNumber\obj\Debug\GuessingNumber.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\GuessingNumber\GuessingNumber\obj\Debug\GuessingNumber.pdb

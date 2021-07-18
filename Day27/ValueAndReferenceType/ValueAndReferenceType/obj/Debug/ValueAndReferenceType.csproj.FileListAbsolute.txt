@@ -1,0 +1,7 @@
+C:\Users\Sachin Kumar\source\repos\ValueAndReferenceType\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.exe.config
+C:\Users\Sachin Kumar\source\repos\ValueAndReferenceType\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.exe
+C:\Users\Sachin Kumar\source\repos\ValueAndReferenceType\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.pdb
+C:\Users\Sachin Kumar\source\repos\ValueAndReferenceType\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.csproj.AssemblyReference.cache
+C:\Users\Sachin Kumar\source\repos\ValueAndReferenceType\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\Sachin Kumar\source\repos\ValueAndReferenceType\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.exe
+C:\Users\Sachin Kumar\source\repos\ValueAndReferenceType\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.pdb

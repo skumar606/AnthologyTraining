@@ -1,0 +1,7 @@
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AnonymusTypes\AnonymusTypes\bin\Debug\AnonymusTypes.exe.config
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AnonymusTypes\AnonymusTypes\bin\Debug\AnonymusTypes.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AnonymusTypes\AnonymusTypes\bin\Debug\AnonymusTypes.pdb
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AnonymusTypes\AnonymusTypes\obj\Debug\AnonymusTypes.csproj.AssemblyReference.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AnonymusTypes\AnonymusTypes\obj\Debug\AnonymusTypes.csproj.CoreCompileInputs.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AnonymusTypes\AnonymusTypes\obj\Debug\AnonymusTypes.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AnonymusTypes\AnonymusTypes\obj\Debug\AnonymusTypes.pdb

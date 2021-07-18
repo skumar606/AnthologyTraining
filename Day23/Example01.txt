@@ -1,0 +1,14 @@
+Q1. Find number of comments on every photo
+
+
+Q2. Find number of photos for every user
+
+
+Q3. List all photos along with one extra column popularity(Very Popular, Popular, Less Popular), when comments on a photo >= 500 Very Popular, and when comments on a photo >= 100 and <500 Popular, when comments on a photo < 100 Less Popular
+
+
+Q4. List top 10 users on the basis of number of photos
+
+
+Q5. List all users having sachin and kumar in their username
+

@@ -1,0 +1,46 @@
+CREATE TRIGGER trg_jobs_audit
+ON jobs
+AFTER INSERT, DELETE
+AS
+BEGIN
+SET NOCOUNT ON;
+INSERT INTO [dbo].[jobs_audit]
+           ([job_title]
+           ,[min_salary]
+           ,[max_salary])
+		
+	SELECT 
+	    [job_title]
+           ,[min_salary]
+           ,[max_salary]
+	   ,'INSERTED'
+	FROM inserted
+UNION ALL
+	SELECT
+	    [job_title]
+           ,[min_salary]
+           ,[max_salary]
+	   , 'DELETED'
+	FROM 
+	     deleted d
+END
+
+***********************************
+GO
+
+INSERT INTO [dbo].[jobs]
+           ([job_title]
+           ,[min_salary]
+           ,[max_salary])
+     VALUES
+           ('IT admin'
+           ,10000.00
+           ,20000.00)
+GO
+************************************
+
+select * from jobs_audit
+***********************************
+DELETE FROM jobs where job_title = "IT ADMIN"
+
+***********************************

@@ -1,0 +1,6 @@
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\ReferenceType\ReferenceType\bin\Debug\ReferenceType.exe.config
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\ReferenceType\ReferenceType\bin\Debug\ReferenceType.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\ReferenceType\ReferenceType\bin\Debug\ReferenceType.pdb
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\ReferenceType\ReferenceType\obj\Debug\ReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\ReferenceType\ReferenceType\obj\Debug\ReferenceType.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\ReferenceType\ReferenceType\obj\Debug\ReferenceType.pdb

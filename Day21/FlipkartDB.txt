@@ -1,0 +1,4 @@
+Products (ProductID(PK), ProductName, ProductDetails, Price)
+Cutomers (CusomerID(PK), CustomerName)
+Orders (OrderID(PK), ProductID(FK), CusomerID(FK))
+

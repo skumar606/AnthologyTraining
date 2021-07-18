@@ -1,0 +1,7 @@
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\Example01\Example01\bin\Debug\Example01.exe.config
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\Example01\Example01\bin\Debug\Example01.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\Example01\Example01\bin\Debug\Example01.pdb
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\Example01\Example01\obj\Debug\Example01.csproj.AssemblyReference.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\Example01\Example01\obj\Debug\Example01.csproj.CoreCompileInputs.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\Example01\Example01\obj\Debug\Example01.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\Example01\Example01\obj\Debug\Example01.pdb

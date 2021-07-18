@@ -1,0 +1,48 @@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <label for="username">Username: </label>
+            <input type="text" class="form-control mb-3" [(ngModel)]="username" (input)="onInputUsername($event)">
+            <button class="btn btn-primary" [disabled]="isDisabled" (click)="onClick()">Reset Details</button>
+
+            <p>{{username}}</p>
+
+            <p>{{2+2}}</p>
+            <p>{{username.toUpperCase()}}</p>
+            <p>{{greetUser()}}</p>
+
+            <input type="text" [disabled]="false" value="Sachin">
+            <a [href]="currLink">Current Page</a>
+
+            <p [class]="success">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus commodi mollitia provident atque
+                voluptatum nihil id illum, ipsum expedita. Obcaecati vel reprehenderit officiis animi ipsam, enim id
+                saepe natus. Molestiae.
+            </p>
+
+
+            <p [style.color]="'orange'">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus commodi mollitia provident atque
+                voluptatum nihil id illum, ipsum expedita. Obcaecati vel reprehenderit officiis animi ipsam, enim id
+                saepe natus. Molestiae.
+            </p>
+
+            <p [ngClass]="errorClassObj">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus commodi mollitia provident atque
+                voluptatum nihil id illum, ipsum expedita. Obcaecati vel reprehenderit officiis animi ipsam, enim id
+                saepe natus. Molestiae.
+            </p>
+
+            <p [ngStyle]="paragraphStyleObj">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus commodi mollitia provident atque
+                voluptatum nihil id illum, ipsum expedita. Obcaecati vel reprehenderit officiis animi ipsam, enim id
+                saepe natus. Molestiae.
+            </p>
+
+
+            <button type="button" class="btn btn-primary" (click)="clickHandler()">Greet</button>
+            <p>{{greetMessage}}</p>
+
+        </div>
+    </div>
+</div>

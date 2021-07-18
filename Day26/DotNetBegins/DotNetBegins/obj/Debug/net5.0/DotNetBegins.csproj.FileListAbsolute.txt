@@ -1,0 +1,16 @@
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\bin\Debug\net5.0\DotNetBegins.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\bin\Debug\net5.0\DotNetBegins.deps.json
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\bin\Debug\net5.0\DotNetBegins.runtimeconfig.json
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\bin\Debug\net5.0\DotNetBegins.runtimeconfig.dev.json
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\bin\Debug\net5.0\DotNetBegins.dll
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\bin\Debug\net5.0\ref\DotNetBegins.dll
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\bin\Debug\net5.0\DotNetBegins.pdb
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\obj\Debug\net5.0\DotNetBegins.csproj.AssemblyReference.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\obj\Debug\net5.0\DotNetBegins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\obj\Debug\net5.0\DotNetBegins.AssemblyInfoInputs.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\obj\Debug\net5.0\DotNetBegins.AssemblyInfo.cs
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\obj\Debug\net5.0\DotNetBegins.csproj.CoreCompileInputs.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\obj\Debug\net5.0\DotNetBegins.dll
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\obj\Debug\net5.0\ref\DotNetBegins.dll
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\obj\Debug\net5.0\DotNetBegins.pdb
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day26\DotNetBegins\DotNetBegins\obj\Debug\net5.0\DotNetBegins.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+<div class="container-fluid">
+    <h1 class="display-h2 text-center">Event Details</h1>
+    <hr>
+    <app-new-event></app-new-event>
+    <div *ngFor="let event of events">
+        <app-event [event]="event"></app-event>
+    </div>
+
+    <div *ngFor="let customer of customers; let i = index; let odd = odd; let even = even" [class]="{'bg-success': odd, 'bg-danger': even}">
+        {{customer.name}}
+    </div>
+</div>

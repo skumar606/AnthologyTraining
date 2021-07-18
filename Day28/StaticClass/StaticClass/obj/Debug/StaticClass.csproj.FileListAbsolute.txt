@@ -1,0 +1,7 @@
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day28\StaticClass\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day28\StaticClass\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day28\StaticClass\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day28\StaticClass\StaticClass\obj\Debug\StaticClass.csproj.AssemblyReference.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day28\StaticClass\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day28\StaticClass\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day28\StaticClass\StaticClass\obj\Debug\StaticClass.pdb

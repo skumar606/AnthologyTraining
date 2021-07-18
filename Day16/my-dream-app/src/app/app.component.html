@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <h2>Hello from root component</h2>
+            <hr>
+            <p [ngStyle]="{backgroundColor: getColor()}" [ngClass]="{'text-white': true}">Server with id {{serverID}} is {{serverStatus}}!</p>
+            <input type="text" id="serverName1" class="form-control" [(ngModel)]="serverName">
+            <br>
+            <label for="serverName">Server Name: </label>
+            <input type="text" id="serverName" class="form-control" (input)="onInputUpdate($event)">
+            <br>
+            <button class="btn btn-primary" [disabled]="!allowNewServers" (click)="createNewServer()">Add New Server</button>
+            <!-- <p *ngIf="displayMessage">{{sreverCreateStatus}}</p> -->
+
+            <p *ngIf="displayMessage else server">Server was not created!</p>
+            <ng-template #server>
+                <p>A new server was created! Server Name: {{serverName}}</p>
+            </ng-template>
+
+            <p>{{serverName}}</p>
+
+            <app-servers></app-servers>
+        </div>
+    </div>
+</div>

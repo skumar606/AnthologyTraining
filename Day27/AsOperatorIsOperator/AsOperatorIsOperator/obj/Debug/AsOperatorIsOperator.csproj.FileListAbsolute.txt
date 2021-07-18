@@ -1,0 +1,7 @@
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AsOperatorIsOperator\AsOperatorIsOperator\bin\Debug\AsOperatorIsOperator.exe.config
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AsOperatorIsOperator\AsOperatorIsOperator\bin\Debug\AsOperatorIsOperator.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AsOperatorIsOperator\AsOperatorIsOperator\bin\Debug\AsOperatorIsOperator.pdb
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AsOperatorIsOperator\AsOperatorIsOperator\obj\Debug\AsOperatorIsOperator.csproj.AssemblyReference.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AsOperatorIsOperator\AsOperatorIsOperator\obj\Debug\AsOperatorIsOperator.csproj.CoreCompileInputs.cache
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AsOperatorIsOperator\AsOperatorIsOperator\obj\Debug\AsOperatorIsOperator.exe
+C:\Users\Sachin Kumar\Downloads\AnthologyTrainingLocal\HTMLAngularDotNet\Day27\AsOperatorIsOperator\AsOperatorIsOperator\obj\Debug\AsOperatorIsOperator.pdb

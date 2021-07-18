@@ -1,0 +1,57 @@
+Create Database InstagramDB
+
+Create Table Users (
+	user_id Int Identity(1,1) Primary Key,
+	full_name varchar(50),
+	username varchar(15),
+	website varchar(500),
+	bio varchar(150),
+	email varchar(50),
+	password varchar(20),
+	phone_number varchar(15),
+	gender varchar(10),
+	creation_date Date
+)
+
+Create Table Photos (
+	photo_id int Identity(1,1) Primary Key,
+	user_id int,
+	photo_url varchar(500),
+	caption varchar(500),
+	latitude float(8),
+	longitude float(8),
+	creation_date date,
+	creation_time time
+	Foreign Key (user_id) References Users(user_id) On Delete Cascade On Update Cascade 
+)
+
+
+Create Table Followers (
+	follower int,
+	following int,
+	Primary Key (follower, following),
+	Foreign Key (follower) References Users(user_id),
+	Foreign Key (following) References Users(user_id)
+)
+
+Create Table Comments (
+	comment_id int identity(1,1) primary key,
+	comment_text varchar(500),
+	comment_date date,
+	comment_time time,
+	user_id int,
+	photo_id int,
+	Foreign Key (user_id) References Users(user_id),
+	Foreign Key (photo_id) References Photos(photo_id)
+)
+
+Create Table Replies (
+	reply_id int identity(1,1) primary key,
+	reply_text varchar(500),
+	reply_date date,
+	reply_time time,
+	user_id int,
+	comment_id int,
+	Foreign Key (user_id) References Users(user_id) On Delete Cascade On Update Cascade,
+	Foreign Key (comment_id) References Comments(comment_id) On Delete Cascade On Update Cascade 
+)

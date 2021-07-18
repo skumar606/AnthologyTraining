@@ -1,0 +1,4 @@
+1) Create a view  to display the country and region details along with the department - Team 4 - vDepartmentCountryRegionDetails
+2) Create a view to display employee details along with his manager details - Team 3 - vEmployeeManagerDetails
+3) Create a view to display employee details with dependents - Team 2  vEmployeeDependentDetails
+4) Create a view to display employee details with job details - Team 1 vEmployeeJobDetails

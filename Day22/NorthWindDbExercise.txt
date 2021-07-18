@@ -1,0 +1,62 @@
+-- 1. The category which has maximum number of products
+
+Select * From Categories 
+Where CategoryID = (
+    Select Top 1 CategoryID From Products 
+    Group By CategoryID 
+    Order By Count(ProductID) Desc
+)
+
+
+-- 2. Get the orders with an ordervalue greater than 500
+
+Select OrderID, Sum(UnitPrice*Quantity) AS TotalValue 
+From [Order Details] 
+Group By OrderID 
+Having Sum(UnitPrice*Quantity) >= 500
+
+
+-- 3. Select the five most expensive products
+
+Select Top 5 * 
+From Products 
+Order By UnitPrice Desc
+
+
+-- 4. Select the territory which has maximum number of employees
+
+Select Top 1 Count(EmployeeID) As NumOfEmployees, TerritoryID 
+From EmployeeTerritories 
+Group By TerritoryID 
+Order By NumOfEmployees
+
+
+-- 5. Supplier who supplies maximum number of products
+
+Select * From Suppliers 
+Where SupplierID = (
+    Select Top 1 SupplierID 
+    From Products 
+    Group By SupplierID 
+    Order By Count(ProductID) Desc
+)
+
+
+-- 6. Suppliers who do not have any products
+
+Select * From Suppliers 
+Where SupplierID Not In (
+    Select Distinct SupplierID 
+    From Products
+)
+
+
+-- 7. The product which is ordered most
+
+Select * From Products 
+Where ProductID = (
+    Select Top 1 ProductID 
+    From [Order Details] 
+    Group By ProductID 
+    Order By Sum(Quantity) Desc
+)

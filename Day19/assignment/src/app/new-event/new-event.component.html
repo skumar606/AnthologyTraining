@@ -1,0 +1,23 @@
+<form action="" class="mb-3">
+    <div class="row g-3 mb-3">
+        <div class="col-md-6">
+            <label class="form-label" for="name">Event Name: </label>
+            <input class="form-control" id="name" type="text" #name>
+        </div>
+        <div class="col-md-6">
+            <label class="form-label" for="location">Location: </label>
+            <input class="form-control" id="location" type="text" #location>
+        </div>
+    </div>
+    <div class="row g-3 mb-3">
+        <div class="col-md-6">
+            <label class="form-label" for="name">Date: </label>
+            <input class="form-control" id="date" type="date" #date>
+        </div>
+        <div class="col-md-6">
+            <label class="form-label" for="location">Time: </label>
+            <input class="form-control" id="time" type="time" #time>
+        </div>
+    </div>
+    <button class="btn btn-primary" type="button" (click)="CreateEvent(name.value, location.value, date.value, time.value)">Add Event</button>
+</form>
