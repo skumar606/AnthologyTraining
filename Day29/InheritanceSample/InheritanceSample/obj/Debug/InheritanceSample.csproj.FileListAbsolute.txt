@@ -1,0 +1,7 @@
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\InheritanceSample\InheritanceSample\obj\Debug\InheritanceSample.csproj.AssemblyReference.cache
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\InheritanceSample\InheritanceSample\obj\Debug\InheritanceSample.csproj.CoreCompileInputs.cache
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\InheritanceSample\InheritanceSample\bin\Debug\InheritanceSample.exe.config
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\InheritanceSample\InheritanceSample\bin\Debug\InheritanceSample.exe
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\InheritanceSample\InheritanceSample\bin\Debug\InheritanceSample.pdb
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\InheritanceSample\InheritanceSample\obj\Debug\InheritanceSample.exe
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\InheritanceSample\InheritanceSample\obj\Debug\InheritanceSample.pdb

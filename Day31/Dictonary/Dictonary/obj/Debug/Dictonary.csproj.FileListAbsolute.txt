@@ -1,0 +1,7 @@
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Dictonary\Dictonary\bin\Debug\Dictonary.exe.config
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Dictonary\Dictonary\bin\Debug\Dictonary.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Dictonary\Dictonary\bin\Debug\Dictonary.pdb
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Dictonary\Dictonary\obj\Debug\Dictonary.csproj.AssemblyReference.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Dictonary\Dictonary\obj\Debug\Dictonary.csproj.CoreCompileInputs.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Dictonary\Dictonary\obj\Debug\Dictonary.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Dictonary\Dictonary\obj\Debug\Dictonary.pdb

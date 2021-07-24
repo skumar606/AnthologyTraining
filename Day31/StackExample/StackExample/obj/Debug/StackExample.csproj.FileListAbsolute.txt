@@ -1,0 +1,7 @@
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\StackExample\StackExample\bin\Debug\StackExample.exe.config
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\StackExample\StackExample\bin\Debug\StackExample.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\StackExample\StackExample\bin\Debug\StackExample.pdb
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\StackExample\StackExample\obj\Debug\StackExample.csproj.AssemblyReference.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\StackExample\StackExample\obj\Debug\StackExample.csproj.CoreCompileInputs.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\StackExample\StackExample\obj\Debug\StackExample.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\StackExample\StackExample\obj\Debug\StackExample.pdb

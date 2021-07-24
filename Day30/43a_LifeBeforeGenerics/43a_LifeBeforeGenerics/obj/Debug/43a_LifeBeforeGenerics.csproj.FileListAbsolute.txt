@@ -1,0 +1,7 @@
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43a_LifeBeforeGenerics\43a_LifeBeforeGenerics\bin\Debug\43a_LifeBeforeGenerics.exe.config
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43a_LifeBeforeGenerics\43a_LifeBeforeGenerics\bin\Debug\43a_LifeBeforeGenerics.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43a_LifeBeforeGenerics\43a_LifeBeforeGenerics\bin\Debug\43a_LifeBeforeGenerics.pdb
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43a_LifeBeforeGenerics\43a_LifeBeforeGenerics\obj\Debug\43a_LifeBeforeGenerics.csproj.AssemblyReference.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43a_LifeBeforeGenerics\43a_LifeBeforeGenerics\obj\Debug\43a_LifeBeforeGenerics.csproj.CoreCompileInputs.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43a_LifeBeforeGenerics\43a_LifeBeforeGenerics\obj\Debug\43a_LifeBeforeGenerics.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43a_LifeBeforeGenerics\43a_LifeBeforeGenerics\obj\Debug\43a_LifeBeforeGenerics.pdb

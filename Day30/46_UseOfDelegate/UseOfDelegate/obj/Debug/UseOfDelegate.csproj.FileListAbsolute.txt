@@ -1,0 +1,7 @@
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\46_UseOfDelegate\UseOfDelegate\bin\Debug\UseOfDelegate.exe.config
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\46_UseOfDelegate\UseOfDelegate\bin\Debug\UseOfDelegate.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\46_UseOfDelegate\UseOfDelegate\bin\Debug\UseOfDelegate.pdb
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\46_UseOfDelegate\UseOfDelegate\obj\Debug\UseOfDelegate.csproj.AssemblyReference.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\46_UseOfDelegate\UseOfDelegate\obj\Debug\UseOfDelegate.csproj.CoreCompileInputs.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\46_UseOfDelegate\UseOfDelegate\obj\Debug\UseOfDelegate.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\46_UseOfDelegate\UseOfDelegate\obj\Debug\UseOfDelegate.pdb

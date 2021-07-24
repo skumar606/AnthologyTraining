@@ -1,0 +1,7 @@
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Example01\Example01\bin\Debug\Example01.exe.config
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Example01\Example01\bin\Debug\Example01.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Example01\Example01\bin\Debug\Example01.pdb
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Example01\Example01\obj\Debug\Example01.csproj.AssemblyReference.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Example01\Example01\obj\Debug\Example01.csproj.CoreCompileInputs.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Example01\Example01\obj\Debug\Example01.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day31\Example01\Example01\obj\Debug\Example01.pdb

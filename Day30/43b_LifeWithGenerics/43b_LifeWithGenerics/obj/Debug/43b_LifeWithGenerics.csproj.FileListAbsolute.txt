@@ -1,0 +1,7 @@
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43b_LifeWithGenerics\43b_LifeWithGenerics\bin\Debug\43b_LifeWithGenerics.exe.config
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43b_LifeWithGenerics\43b_LifeWithGenerics\bin\Debug\43b_LifeWithGenerics.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43b_LifeWithGenerics\43b_LifeWithGenerics\bin\Debug\43b_LifeWithGenerics.pdb
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43b_LifeWithGenerics\43b_LifeWithGenerics\obj\Debug\43b_LifeWithGenerics.csproj.AssemblyReference.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43b_LifeWithGenerics\43b_LifeWithGenerics\obj\Debug\43b_LifeWithGenerics.csproj.CoreCompileInputs.cache
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43b_LifeWithGenerics\43b_LifeWithGenerics\obj\Debug\43b_LifeWithGenerics.exe
+C:\Users\SachinKumar\Downloads\DotNetTraining\Day30\43b_LifeWithGenerics\43b_LifeWithGenerics\obj\Debug\43b_LifeWithGenerics.pdb

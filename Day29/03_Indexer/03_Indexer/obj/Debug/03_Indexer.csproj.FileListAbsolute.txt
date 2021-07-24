@@ -1,0 +1,7 @@
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\03_Indexer\03_Indexer\obj\Debug\03_Indexer.csproj.AssemblyReference.cache
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\03_Indexer\03_Indexer\obj\Debug\03_Indexer.csproj.CoreCompileInputs.cache
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\03_Indexer\03_Indexer\bin\Debug\03_Indexer.exe.config
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\03_Indexer\03_Indexer\bin\Debug\03_Indexer.exe
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\03_Indexer\03_Indexer\bin\Debug\03_Indexer.pdb
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\03_Indexer\03_Indexer\obj\Debug\03_Indexer.exe
+C:\EDrive\Valuematters.org\Training\CorporateTraining\LocusIT\TrainingMaterial\HTMLAngularDotNet\Day29\03_Indexer\03_Indexer\obj\Debug\03_Indexer.pdb
